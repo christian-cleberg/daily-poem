@@ -1,7 +1,8 @@
 # Daily Poem
 
-This is a simple Python program to send an email containing a random poem from 
-the [PoetryDB API](https://github.com/thundercomb/poetrydb).
+This is a simple Python program to request a random poem from the 
+[PoetryDB API](https://github.com/thundercomb/poetrydb) and email it to 
+configurable email addresses.
 
 ## Prerequisites
 
