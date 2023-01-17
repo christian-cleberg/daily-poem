@@ -15,7 +15,7 @@ package on Debian.
 First, clone the repository and enter the directory:
 
 ```bash
-git clone git://git.cleberg.net/daily-poem.git
+git clone https://git.sr.ht/~cmc/daily-poem
 cd daily-poem
 ```
 
